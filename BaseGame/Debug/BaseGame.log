@@ -1,3 +1,7 @@
 ﻿  MainSource.cpp
+c:\users\krivolapov_v\desktop\sfml_test_oop\basegame\entity.h(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Entity.cpp
   BaseGame.vcxproj -> C:\Users\krivolapov_v\Desktop\sfml_test_oop\BaseGame\Debug\BaseGame.exe
   BaseGame.vcxproj -> C:\Users\krivolapov_v\Desktop\sfml_test_oop\BaseGame\Debug\BaseGame.pdb (Partial PDB)
